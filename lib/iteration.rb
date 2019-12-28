@@ -27,7 +27,7 @@ def find_greater_pair(src)
   result = []
   
   i=0
-  while 
+  while i < scr.length documentation
 end
 
 def total_even_pairs(src)
