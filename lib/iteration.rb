@@ -9,6 +9,7 @@ def join_ingredients(src)
   
   result = []
   
+  i=0
   
 end
 
