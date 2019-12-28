@@ -10,7 +10,7 @@ def join_ingredients(src)
   result = []
   
   i=0
-  while i < scr.length do
+  while i < src.length do
     inner = src[i]
     result << "I love #{inner[0]} and #{inner[1]} on my pizza"
     i += 1
@@ -27,7 +27,7 @@ def find_greater_pair(src)
   result = []
   
   i=0
-  while i < scr.length do
+  while i < src.length do
     result << (scr[i][0] > scr[i][1] ? scr[i][0] : scr[i][1])
     i +=1
 end
